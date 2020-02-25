@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "jirapush.py", line 77, in <module>
+    main()
+  File "jirapush.py", line 73, in main
+    time.sleep(1)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "jirapush.py", line 77, in <module>
+    if __name__ == '__main__':
+  File "jirapush.py", line 73, in main
+    schedule.run_pending()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "jirapush.py", line 78, in <module>
+    main()
+  File "jirapush.py", line 74, in main
+    time.sleep(1)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "jirapush.py", line 78, in <module>
+    main()
+  File "jirapush.py", line 74, in main
+    time.sleep(1)
+KeyboardInterrupt

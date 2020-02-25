@@ -1,0 +1,5 @@
+2020-01-04 16:31:37,494 - __main__ - INFO - start manage app
+2020-01-04 16:31:37,561 - __main__ - INFO - start login
+2020-01-04 16:31:37,561 - __main__ - INFO - https://10.6.150.51
+2020-01-04 16:31:56,786 - __main__ - ERROR - [fail]login
+2020-01-04 16:31:56,815 - __main__ - INFO - save image to../result/image/login1.png
